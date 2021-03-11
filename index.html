@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="style.css">
+    <script src="config.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js"></script>
+</head>
+<body>
+    <div id="main-wrapper">
+    <div class="bg"></div>
+    <div id="wrapper">
+        <div id="pic">
+            <div id="col2-pic"></div>
+        </div>
+        <div id="description">
+            <div id="title">
+                <p id="name"><span id="hi">Hi! I'm</span><br><span id="gilbert">GILBERT <br>CONCEPCION </span></p>
+                <p id="desc">Rich Media Ads Developer</p>
+                <p id="email">E-mail: gilbertconcepcion@gmail.com<br>Contact No: +639064824777</p>
+            </div>
+        </div>
+        <div id="btn-container">
+                <button id="btn-about" class=btn page-name="experience">ABOUT</button>
+                <button id="btn-portfolio" class=btn page-name="portfolio">PORTFOLIO</button>
+        </div>
+    </div>
+    <div id="overlay">
+        <div id="overlay-left"></div>
+        <div id="overlay-right"></div>
+        <button id="btn-close" class="close-btn"> <b>&laquo; HOME</b></button>
+        <div id="container">
+            <div id="experience-txt">
+            <img class="exp-icon" src="logo.png" alt="">
+            <p><b>Hi! I am GILBERT.</b> <br> <div class="contents"> I first started as a Flash illustrator and animator in 2009 when my friend convinced me to make dress up games for an online kids website. That's also the time when I learned how to code and for me, that was a fun experience. However with sudden turn of events, web browsers dropped support for Adobe Flash and I was forced to shift from Flash to HTML5. That was when I had the opportunity to work in a Google Partner company, and from that day forward, I have been developing rich media ads for different clients and different brands. I will  be happy to share to you my work history over the years.</div> </p> 
+            <p>
+               <b>Incubeta /Joystick Interactive</b><br>
+                <b>Freelance Rich Media Ads Developer (2014 –present)</b><br>
+                <div class="contents">
+                *Build rich media ads in Html5, either as standard ads or through rich media
+                platforms like Double Click Studio, FlashTalking, Sizmek, Sparkflow,
+                Undertone, and Celtra. Have a hands on experience in building Html5
+                desktop and mobile ads.<br>
+                *Optimize creative ads based on client's file size specification.
+                *Animate graphic elements for ads as directed by client using Flash or
+                Html5(CSS animations and/or via GreenSock API).<br>
+                *Convert and optimize images/videos to meet Google and IAB standards.<br>
+                *Make sure that click through url and and user interactions are tracked.<br>
+                *Ensures cross browser compatibility for both mobile and desktop ads, and
+                test for backward compatibility for older browser versions (eg. IE10)<br>
+                *Make sure that final outputs are delivered based on the given schedule,
+                giving consideration for QA testings and evaluation.<br>
+                *Responsible in fixing bugs and punctual in dealing with QA notes or client
+                request and revisions.<br>
+                *Comfortable in collaborating with other developers for larger projects.
+                </div>
+            </p>
+            <p>
+               <b> Cartoon Doll Emporium <br> Flash Developer/Illustrator/Animator (2013-2014) </b><br>
+                <div class="contents">
+                *Conceptualize flash games.<br>
+                *Design game elements and responsible for game animations.<br>
+                *Code the game using Action Script 3.0. Knowledgeable in Object Oriented
+                Programming.<br>
+                *Responsible in developing game interactions and logic.<br>
+                *Responsible in optimizing game elements and graphics.<br>
+                *Coordinate with client regularly to make sure that the game is meeting
+                client's expectation.<br>
+                *Comfortable in collaborating with other developers and designers for
+                complex projects.
+                </div>
+            </p>
+            <p>
+               <b> Systaserv E-Learning Games<br>
+                Freelance Flash Developer  (2013 April-July)</b>
+                <br>
+                <div class="contents">
+                *Receive direction from the client and convert game assets into playable
+                games.<br>
+                *Follow the story board diligently and make the game engaging for kids.<br>
+                *Responsible in optimizing game elements and graphics.<br>
+                *Participate in the testing and debugging stage.<br>
+                *Answer revision request diligently.<br>
+                *Collaborate with the lead developer to make sure that our team meet
+                deadlines and deliver the product efficiently.
+                </div>
+            </p>
+            <p>
+              <b>Blue Bat Games <br>
+                Flash Illustrator/Animator/ Developer  (2011-2012)</b>
+                <br>
+                <div class="contents">
+                *Creating game graphics and animation using Flash and Anime Studio.<br>
+                *Help in building game prototypes.<br>
+                *Aid in managing game assets created by co-artists.<br>
+                *Communicate with the supervisor regularly in order to make sure that the
+                team meets the spec of the project.
+                </div>
+            </p>
+            <p>
+              <b> Cartoon Doll Emporium <br>
+                Flash Illustrator/Animator
+                (2009-2011)</b>
+                <br>
+                <div class="contents">
+                *Concept and creation of game design, graphics and animation using Flash
+                and Anime Studio.
+                </div>
+            </p>
+            <p>
+               <b>SKILLS</b> <br>
+               <div class="contents">
+                *Html5+Javascript+CSS, Front End Development <br>
+                *Video Editing (Adobe Premiere, Sony Vegas) <br>
+                *Flash/Moho Animation <br>
+                *Graphic Design (Photoshop, Illustrator, Adobe XD)
+               </div>
+            </p>
+            </div>
+        </div>
+        <div id="portfolio">
+            
+            <div id="gallery-area">
+                <button id="btn-close-portfolio" class="close-btn"><b> &laquo; HOME</b></button>
+            </div>
+            <div id="gallery-thumbs">
+                <div id="portfolio-title">PORTFOLIO</div>
+                <div id="thumbs" class="thumbs">
+                    
+                   
+                </div>
+                <div id="gallery-footer"></div>
+            </div>
+        </div>
+    </div>
+    <div id="portfolio-overlay">
+        <div id="ad-container" class="ad-container"></div>
+        <div id="close-portfolio-overlay"></div>
+    </div>
+    </div>
+    <script src="script.js"></script>
+    
+</body>
+</html>
