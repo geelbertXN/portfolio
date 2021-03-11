@@ -1,6 +1,5 @@
 var config = [
 
-
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Nikon/NKN_Crane/NIK-160302_160x600_P900_Crane/", width: 160, height: 600, thumb: "thumb03_crane.png" },
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Nikon/NKN_Crane/NIK-160302_300x250_P900_Crane/", width: 300, height: 250, thumb: "thumb03_crane.png" },
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Nikon/NKN_Crane/NIK-160302_300x600_P900_Crane/", width: 300, height: 600, thumb: "thumb03_crane.png" },
@@ -9,9 +8,6 @@ var config = [
     { name: "dw", link: "https://www.rmu.gallery/(HTML5)Direct_Wines/300x250_r1/", width: 300, height: 250 , thumb:"thumb04.png"},
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Disney/300x250/", width: 300, height: 250 , thumb:"thumb05.png"},
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)TUBI/r1.1/tubi_300x250/", width: 300, height: 250, thumb: "thumb22.png" },
-
-    // { name: "ds", link: "https://www.rmu.gallery/(HTML5)NY_Lotto_PGX_Preview/", width: 320, height: 480, thumb: "thumb21.png" },
-    // { name: "ds", link: "https://www.rmu.gallery/(HTML5)NY_Lotto_PGX_Preview/", width: 568, height: 320, thumb: "thumb21.png" },
 
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)CodeTheory/Pet_300x250_Consideration1-BUY/", width: 300, height: 250, thumb: "thumb09_pet.png" },
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)CodeTheory/Music_300x250_Consideration2-BUY/", width: 300, height: 250, thumb: "thumb09.png" },
@@ -71,7 +67,6 @@ var config = [
     
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)SourceMedia_970x250/index.html", width: 970, height: 250 , thumb:"thumb13.png"},
 
-
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)OrthoBedBug/OrthoBedBug_160x600/", width: 158, height: 598 , thumb:"thumb14.png"},
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)OrthoBedBug/OrthoBedBug_300x250/", width: 298, height: 248 , thumb:"thumb14.png"},
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)OrthoBedBug/OrthoBedBug_320x50/", width: 318, height: 48 , thumb:"thumb14.png"},
@@ -90,11 +85,4 @@ var config = [
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Austine/160x600/", width: 160, height: 600 , thumb:"thumb19.png"},
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Austine/300x250/", width: 300, height: 250 , thumb:"thumb19.png"},
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Austine/728x90/", width: 728, height: 90 , thumb:"thumb19.png"},
-
-
-    
 ]
-
-
-
-
