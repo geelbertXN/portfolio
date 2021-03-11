@@ -10,17 +10,17 @@ var config = [
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Disney/300x250/", width: 300, height: 250 , thumb:"thumb05.png"},
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)TUBI/r1.1/tubi_300x250/", width: 300, height: 250, thumb: "thumb22.png" },
 
-    { name: "ds", link: "https://www.rmu.gallery/(HTML5)NY_Lotto_PGX_Preview/", width: 320, height: 480, thumb: "thumb21.png" },
-    { name: "ds", link: "https://www.rmu.gallery/(HTML5)NY_Lotto_PGX_Preview/", width: 568, height: 320, thumb: "thumb21.png" },
+    // { name: "ds", link: "https://www.rmu.gallery/(HTML5)NY_Lotto_PGX_Preview/", width: 320, height: 480, thumb: "thumb21.png" },
+    // { name: "ds", link: "https://www.rmu.gallery/(HTML5)NY_Lotto_PGX_Preview/", width: 568, height: 320, thumb: "thumb21.png" },
 
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)CodeTheory/Pet_300x250_Consideration1-BUY/", width: 300, height: 250, thumb: "thumb09_pet.png" },
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)CodeTheory/Music_300x250_Consideration2-BUY/", width: 300, height: 250, thumb: "thumb09.png" },
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)CodeTheory/Music_300x250_Awarenes-BUY/", width: 300, height: 250, thumb: "thumb09_music.png" },
 
-    // { name: "alz", link: "http://www.rmu.gallery/(HTML5)ALZ_2020/R0/ALZ_160x600_ENG2/index.html", width: 160, height: 600, thumb: "thumb01_alz.png" },
-    // { name: "alz", link: "http://www.rmu.gallery/(HTML5)ALZ_2020/R0/ALZ_300x250_ENG2/index.html", width: 300, height: 250, thumb: "thumb01_alz.png" },
-    // { name: "alz", link: "http://www.rmu.gallery/(HTML5)ALZ_2020/R0/ALZ_300x600_ENG2/index.html", width: 300, height: 600, thumb: "thumb01_alz.png" },
-    // { name: "alz", link: "http://www.rmu.gallery/(HTML5)ALZ_2020/R0/ALZ_728x90_ENG2/index.html", width: 728, height: 90, thumb: "thumb01_alz.png" },
+    { name: "alz", link: "https://www.rmu.gallery/(HTML5)ALZ_2020/R0/ALZ_160x600_ENG2/index.html", width: 160, height: 600, thumb: "thumb01_alz.png" },
+    { name: "alz", link: "https://www.rmu.gallery/(HTML5)ALZ_2020/R0/ALZ_300x250_ENG2/index.html", width: 300, height: 250, thumb: "thumb01_alz.png" },
+    { name: "alz", link: "https://www.rmu.gallery/(HTML5)ALZ_2020/R0/ALZ_300x600_ENG2/index.html", width: 300, height: 600, thumb: "thumb01_alz.png" },
+    { name: "alz", link: "https://www.rmu.gallery/(HTML5)ALZ_2020/R0/ALZ_728x90_ENG2/index.html", width: 728, height: 90, thumb: "thumb01_alz.png" },
 
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)RNC_Election_Services_Phase_2/Variant1_300x250/", width: 300, height: 250, thumb: "thumb08.png" },
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)RNC_Election_Services_Phase_2/Variant1_300x600/", width: 300, height: 600, thumb: "thumb08.png" },
