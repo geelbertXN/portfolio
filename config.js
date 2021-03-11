@@ -1,5 +1,4 @@
 var config = [
-
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Nikon/NKN_Crane/NIK-160302_160x600_P900_Crane/", width: 160, height: 600, thumb: "thumb03_crane.png" },
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Nikon/NKN_Crane/NIK-160302_300x250_P900_Crane/", width: 300, height: 250, thumb: "thumb03_crane.png" },
     { name: "ds", link: "https://www.rmu.gallery/(HTML5)Nikon/NKN_Crane/NIK-160302_300x600_P900_Crane/", width: 300, height: 600, thumb: "thumb03_crane.png" },
